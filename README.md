@@ -1,1 +1,1 @@
-# google_colab
+#This repo is dedicated to learn tensorflow for deep learning.
